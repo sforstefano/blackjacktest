@@ -1,0 +1,23 @@
+.botones{
+	width: 300px;
+	margin: 0 auto;
+	margin-top: 20%;
+}
+
+
+.area-casa{
+	float: left;
+	margin-left: 25%;
+}
+
+.area-jugador{
+	margin-left: 75%;
+}
+
+.area-juego{
+	margin-top: 10%;
+}
+
+.resultados{
+	margin-left: 50%;
+}
